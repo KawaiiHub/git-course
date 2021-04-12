@@ -9,3 +9,6 @@ errors.txt
 6. Git branch test
 7. Git branch -b new
 8. Git rm -D
+9. Git merge readme
+10. Git (link)
+11. Git push -u origin master
