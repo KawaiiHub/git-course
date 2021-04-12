@@ -1,2 +1,10 @@
 errors.txt
 /logs
+
+1. Git init
+2. Git add (file or ". - all")
+3. Git commit -m "message"
+4. Git status
+5. Git branch
+6. Git branch test
+7. Git branch -b new
